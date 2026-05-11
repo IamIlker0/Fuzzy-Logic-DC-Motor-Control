@@ -17,7 +17,7 @@ The control loop includes the DC motor transfer function, an integrator for zero
 
 <img width="1101" height="475" alt="Ekran görüntüsü 2026-05-11 095256" src="https://github.com/user-attachments/assets/db1a2805-b26b-4266-9aa2-75838f68e8cb" />
 
-## 📊 Performance & Results
+## Performance & Results
 The simulation results show the controller's effectiveness. When the disturbance occurs at the 5th second, the system experiences a momentary drop but recovers back to the **50 rad/s setpoint** within approximately 2 seconds.
 
 <img width="702" height="629" alt="Ekran görüntüsü 2026-05-11 100851" src="https://github.com/user-attachments/assets/e40a0011-69c3-43ab-aa9b-45b67039b00c" />
